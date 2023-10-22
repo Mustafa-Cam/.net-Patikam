@@ -1,0 +1,14 @@
+C:\Users\musta\OneDrive - nku.edu.tr\Masaüstü\herşey\patikam\c#\Odev1Soru4\bin\Debug\net7.0\Odev1Soru4.exe
+C:\Users\musta\OneDrive - nku.edu.tr\Masaüstü\herşey\patikam\c#\Odev1Soru4\bin\Debug\net7.0\Odev1Soru4.deps.json
+C:\Users\musta\OneDrive - nku.edu.tr\Masaüstü\herşey\patikam\c#\Odev1Soru4\bin\Debug\net7.0\Odev1Soru4.runtimeconfig.json
+C:\Users\musta\OneDrive - nku.edu.tr\Masaüstü\herşey\patikam\c#\Odev1Soru4\bin\Debug\net7.0\Odev1Soru4.dll
+C:\Users\musta\OneDrive - nku.edu.tr\Masaüstü\herşey\patikam\c#\Odev1Soru4\bin\Debug\net7.0\Odev1Soru4.pdb
+C:\Users\musta\OneDrive - nku.edu.tr\Masaüstü\herşey\patikam\c#\Odev1Soru4\obj\Debug\net7.0\Odev1Soru4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\OneDrive - nku.edu.tr\Masaüstü\herşey\patikam\c#\Odev1Soru4\obj\Debug\net7.0\Odev1Soru4.AssemblyInfoInputs.cache
+C:\Users\musta\OneDrive - nku.edu.tr\Masaüstü\herşey\patikam\c#\Odev1Soru4\obj\Debug\net7.0\Odev1Soru4.AssemblyInfo.cs
+C:\Users\musta\OneDrive - nku.edu.tr\Masaüstü\herşey\patikam\c#\Odev1Soru4\obj\Debug\net7.0\Odev1Soru4.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive - nku.edu.tr\Masaüstü\herşey\patikam\c#\Odev1Soru4\obj\Debug\net7.0\Odev1Soru4.dll
+C:\Users\musta\OneDrive - nku.edu.tr\Masaüstü\herşey\patikam\c#\Odev1Soru4\obj\Debug\net7.0\refint\Odev1Soru4.dll
+C:\Users\musta\OneDrive - nku.edu.tr\Masaüstü\herşey\patikam\c#\Odev1Soru4\obj\Debug\net7.0\Odev1Soru4.pdb
+C:\Users\musta\OneDrive - nku.edu.tr\Masaüstü\herşey\patikam\c#\Odev1Soru4\obj\Debug\net7.0\Odev1Soru4.genruntimeconfig.cache
+C:\Users\musta\OneDrive - nku.edu.tr\Masaüstü\herşey\patikam\c#\Odev1Soru4\obj\Debug\net7.0\ref\Odev1Soru4.dll

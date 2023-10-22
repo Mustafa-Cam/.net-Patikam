@@ -1,7 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
 namespace HelloWorld{
 
-    class Program
+//! Bir konsol uygulamasında kullanıcıdan pozitif bir sayı girmesini isteyin (n). Sonrasında kullanıcıdan n adet kelime girmesi isteyin. Kullanıcının girişini yaptığı kelimeleri sondan başa doğru console'a yazdırın.
+     class Program
     {
 
     static void Main(string[] args){
